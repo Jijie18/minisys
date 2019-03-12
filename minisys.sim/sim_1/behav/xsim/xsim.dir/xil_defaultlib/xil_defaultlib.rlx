@@ -1,0 +1,26 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/16972/verilog project/minisys/minisys.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/ControlIO32_sim.v,1526303209,verilog,,,,ControlIO32_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/control32_sim.v,1526303205,verilog,,,,control32_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/exe_sim.v,1528007490,verilog,,,,exe_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/idcode32_sim.v,1527252871,verilog,,,,idcode32_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/ifetc32_sim.v,1526303227,verilog,,,,ifetc32_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/minisys_sim.v,1527941210,verilog,,,,minisys_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/ram_sim.v,1526303231,verilog,,,,ram_sim,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/control32.v,1527600234,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/dmemory32.v,,control32,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/dmemory32.v,1527596594,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/executs32.v,,dmemory32,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/executs32.v,1528007445,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/idecode32.v,,Executs32,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/idecode32.v,1527561965,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/ifetc32.v,,Idecode32,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/ifetc32.v,1527914148,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/ioread.v,,Ifetc32,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/ioread.v,1526303098,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/leds.v,,ioread,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/leds.v,1527928444,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/memorio.v,,leds,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/memorio.v,1526303111,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/minisys.v,,memorio,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/minisys.v,1529026704,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/switchs.v,,minisys,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/switchs.v,1527932140,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sim_1/imports/sim/minisys_sim.v,,switchs,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/RAM/sim/RAM.v,1529063071,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/prgrom/sim/prgrom.v,,RAM,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/cpuclk/cpuclk.v,1526355530,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/imports/CPU/control32.v,,cpuclk,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,1526355529,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/cpuclk/cpuclk.v,,cpuclk_clk_wiz,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/prgrom/sim/prgrom.v,1529238621,verilog,,C:/Users/16972/verilog project/minisys/minisys.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,,prgrom,,,../../../../minisys.srcs/sources_1/ip/cpuclk,,,,,
